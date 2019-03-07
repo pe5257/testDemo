@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [:common] /Users/peng/demo/BlogDemo4-master/template/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0e9fba1e0c1ed69998ec349b3a57d9ca/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ec9b806c64d83741e34fa1fafb7a778/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/peng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c59fd0eb2490e6f795c81a968fcc9b8b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d251aed33f29aec139a5d36395bca33c/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/peng/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/d051090727b805acea610018e039c073/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /Users/peng/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/6f2bd01b1bf595582b36bb000ce19b06/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/976b1b13cd281c5eb4e2be9faecc5e0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0e9e3418e979548039c8d74c3972094b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/979a6ff8ea9f7b48e3c59af7456a3837/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3e262aa6b8903cc8b427fa347b9384ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f31f2eb04ee5648ab80f33c59d1e9df2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d664fdc8193367a5fed0c15b6594bd83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2f8368638e3566bd6106a0c847c74cc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecc59381cb5de5ed2a9c8b69b03356b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f96bb48d90e77f9221f978b6a1ea7232/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bc3f25e6464d35cdc12b65e29a5628f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b041c7e73f27ee6f275bccb0fbf2ec3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/706692a72b5bf793233d79042f11e8d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3577ecad3fdf5f4115e1ad80bc9e0983/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bda91196e611b1e9cf94be7e0079ffee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/398219afbd7685f356c4e6118a97ba4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bac7f034917fd6a33cf8d0f0e8dafa4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86f2c0228e1b22ae433416d4832a29b5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ba7636def94dddc2d2d06f58063116cb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bace83aa9e3295b0edfc5cc1d22e266f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d713656eaca59540a25be87af9040e7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b4691e30b3e7fbcb5b03f6f4ffca259e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/87239f3069bbfd9fc15258878350b7e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5ec4fe3da91dfa4ea20659711157272b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d8f4a04982a4c37f2fdcf39946215784/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/a259d28e34fd6843603f790bee0d3f82/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/222ecc4416e453b911891d1ffa58b7ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5d9483daea9a60f48ee5fbb2c0a87f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b2146b99643f10cd71b574cef690f28/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/36e8fbf4d9b6445ae446c5e5c79d43a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/146d28b87b2aaa6a8b76aedc687f2c3c/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b27d333de7da3dc34599c806b7eb870e/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c88a617e4923c8c3e9b18b43171b0517/AndroidManifest.xml:15:1-21:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/c808bbb5b631094c59f0f86a17cb65bb/AndroidManifest.xml:15:1-21:12
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:7:5-30:19
+MERGED from [com.android.support:design:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0e9fba1e0c1ed69998ec349b3a57d9ca/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0e9fba1e0c1ed69998ec349b3a57d9ca/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/peng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c59fd0eb2490e6f795c81a968fcc9b8b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/peng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c59fd0eb2490e6f795c81a968fcc9b8b/AndroidManifest.xml:9:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/peng/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/d051090727b805acea610018e039c073/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/peng/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/d051090727b805acea610018e039c073/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/979a6ff8ea9f7b48e3c59af7456a3837/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/979a6ff8ea9f7b48e3c59af7456a3837/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86f2c0228e1b22ae433416d4832a29b5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86f2c0228e1b22ae433416d4832a29b5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ba7636def94dddc2d2d06f58063116cb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ba7636def94dddc2d2d06f58063116cb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/a259d28e34fd6843603f790bee0d3f82/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/a259d28e34fd6843603f790bee0d3f82/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b27d333de7da3dc34599c806b7eb870e/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b27d333de7da3dc34599c806b7eb870e/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86f2c0228e1b22ae433416d4832a29b5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:8:9-32
+activity#com.example.tonjies.template.MainActivity
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:15:9-59
+	android:name
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:15:19-47
+activity#com.example.tonjies.template.module.refrence.JavaActivity
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:18:9-20:20
+	android:name
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:18:19-63
+activity#com.example.tonjies.template.module.refrence.net.NetActivity
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:23:19-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+MERGED from [:common] /Users/peng/demo/BlogDemo4-master/template/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:common] /Users/peng/demo/BlogDemo4-master/template/common/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0e9fba1e0c1ed69998ec349b3a57d9ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0e9fba1e0c1ed69998ec349b3a57d9ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ec9b806c64d83741e34fa1fafb7a778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ec9b806c64d83741e34fa1fafb7a778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/peng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c59fd0eb2490e6f795c81a968fcc9b8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/peng/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c59fd0eb2490e6f795c81a968fcc9b8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d251aed33f29aec139a5d36395bca33c/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d251aed33f29aec139a5d36395bca33c/AndroidManifest.xml:5:5-43
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/peng/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/d051090727b805acea610018e039c073/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.7] /Users/peng/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.7.aar/d051090727b805acea610018e039c073/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /Users/peng/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/6f2bd01b1bf595582b36bb000ce19b06/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.7] /Users/peng/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.7.aar/6f2bd01b1bf595582b36bb000ce19b06/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/976b1b13cd281c5eb4e2be9faecc5e0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/976b1b13cd281c5eb4e2be9faecc5e0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0e9e3418e979548039c8d74c3972094b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/0e9e3418e979548039c8d74c3972094b/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/979a6ff8ea9f7b48e3c59af7456a3837/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/979a6ff8ea9f7b48e3c59af7456a3837/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3e262aa6b8903cc8b427fa347b9384ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3e262aa6b8903cc8b427fa347b9384ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f31f2eb04ee5648ab80f33c59d1e9df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f31f2eb04ee5648ab80f33c59d1e9df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d664fdc8193367a5fed0c15b6594bd83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d664fdc8193367a5fed0c15b6594bd83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2f8368638e3566bd6106a0c847c74cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2f8368638e3566bd6106a0c847c74cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecc59381cb5de5ed2a9c8b69b03356b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ecc59381cb5de5ed2a9c8b69b03356b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f96bb48d90e77f9221f978b6a1ea7232/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f96bb48d90e77f9221f978b6a1ea7232/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bc3f25e6464d35cdc12b65e29a5628f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bc3f25e6464d35cdc12b65e29a5628f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b041c7e73f27ee6f275bccb0fbf2ec3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b041c7e73f27ee6f275bccb0fbf2ec3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/706692a72b5bf793233d79042f11e8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/706692a72b5bf793233d79042f11e8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3577ecad3fdf5f4115e1ad80bc9e0983/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3577ecad3fdf5f4115e1ad80bc9e0983/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bda91196e611b1e9cf94be7e0079ffee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bda91196e611b1e9cf94be7e0079ffee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/398219afbd7685f356c4e6118a97ba4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/398219afbd7685f356c4e6118a97ba4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bac7f034917fd6a33cf8d0f0e8dafa4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bac7f034917fd6a33cf8d0f0e8dafa4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86f2c0228e1b22ae433416d4832a29b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86f2c0228e1b22ae433416d4832a29b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ba7636def94dddc2d2d06f58063116cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ba7636def94dddc2d2d06f58063116cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bace83aa9e3295b0edfc5cc1d22e266f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/bace83aa9e3295b0edfc5cc1d22e266f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d713656eaca59540a25be87af9040e7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/d713656eaca59540a25be87af9040e7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b4691e30b3e7fbcb5b03f6f4ffca259e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b4691e30b3e7fbcb5b03f6f4ffca259e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/87239f3069bbfd9fc15258878350b7e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/87239f3069bbfd9fc15258878350b7e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5ec4fe3da91dfa4ea20659711157272b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5ec4fe3da91dfa4ea20659711157272b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d8f4a04982a4c37f2fdcf39946215784/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d8f4a04982a4c37f2fdcf39946215784/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/a259d28e34fd6843603f790bee0d3f82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/a259d28e34fd6843603f790bee0d3f82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:interpolator:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/222ecc4416e453b911891d1ffa58b7ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/222ecc4416e453b911891d1ffa58b7ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5d9483daea9a60f48ee5fbb2c0a87f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5d9483daea9a60f48ee5fbb2c0a87f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b2146b99643f10cd71b574cef690f28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3b2146b99643f10cd71b574cef690f28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/36e8fbf4d9b6445ae446c5e5c79d43a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/36e8fbf4d9b6445ae446c5e5c79d43a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/146d28b87b2aaa6a8b76aedc687f2c3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/146d28b87b2aaa6a8b76aedc687f2c3c/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b27d333de7da3dc34599c806b7eb870e/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/peng/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/b27d333de7da3dc34599c806b7eb870e/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c88a617e4923c8c3e9b18b43171b0517/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/c88a617e4923c8c3e9b18b43171b0517/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/c808bbb5b631094c59f0f86a17cb65bb/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/peng/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/c808bbb5b631094c59f0f86a17cb65bb/AndroidManifest.xml:19:5-43
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+		ADDED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peng/demo/BlogDemo4-master/template/app/src/main/AndroidManifest.xml
